@@ -1,0 +1,44 @@
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>Students donate teddy bears to hospital</Content>
+					<Br/>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+
+
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Br/>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+
+
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>Here is a Subhead</Content>
+				</CharacterStyleRange>
+
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Br/>
+					<Br/>
+					<Content>This February, students from three Coon Rapids High School career and technical education organizations donated more than 70 Build-a-Bear teddy bears to children at Mercy Hospital.</Content>
+					<Br/>
+					<Br/>
+					<Content>This third annual event was originally the idea of the school’s Family, Career and Community Leaders of America club. Soon students from the Health Occupations Students of America club and DECA, a student group preparing students for business careers, joined in, according to CRHS student and DECA member Libby Deranleau.</Content>
+					<Br/>
+					<Br/>
+					<Content>“What makes this one so special is that it isn’t just DECA, but the other career and technical education students organizations at (CRHS) coming together to do something great for our local community,” Deranleau said.</Content>
+					<Br/>
+					<Br/>
+					<Content>It all started back on Dec. 18 when more than 70 students from CRHS assembled the teddy bears at the Build-a-Bear store at the Mall of America in Bloomington. Deranleau said bears were made for children at Mercy who needed surgery. They also gave a number of the bears to the newborn nursery at the hospital so babies could be introduced to “their first best friend.”</Content>
+					<Br/>
+					<Br/>
+					<Content>“Unfortunately, we couldn’t personally give the bears to the children at the hospital because of patient privacy laws,” she said. “But the look on the nurses’ and hospital volunteers’ faces was enough for us to know we did something that will make a difference.”</Content>
+					<Br/>
+					<Br/>
+					<Content>Deranleau said a nurse told her the staff get excited for the bears because a hospital stay can be hard for children.</Content>
+					<Br/>
+					<Br/>
+					<Content>“They get excited for (the bears) because it’s not just a comfort gift, but a long-time friend,” Deranleau said.</Content>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>

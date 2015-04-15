@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="6.0(352)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="6.0" Self="d">
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/C=0 M=0 Y=100 K=0" Model="Process" Space="CMYK" ColorValue="0 0 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=0 M=0 Y=100 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/C=0 M=100 Y=0 K=0" Model="Process" Space="CMYK" ColorValue="0 100 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=0 M=100 Y=0 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/C=100 M=0 Y=0 K=0" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=0 Y=0 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/C=100 M=90 Y=10 K=0" Model="Process" Space="CMYK" ColorValue="100 90 10 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=90 Y=10 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/C=15 M=100 Y=100 K=0" Model="Process" Space="CMYK" ColorValue="15 100 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=15 M=100 Y=100 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/C=75 M=5 Y=100 K=0" Model="Process" Space="CMYK" ColorValue="75 5 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=75 M=5 Y=100 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/Cyan" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Cyan" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937"/>
+	<Color Self="Color/Magenta" Model="Process" Space="CMYK" ColorValue="0 100 0 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Magenta" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937"/>
+	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/Registration" Model="Registration" Space="CMYK" ColorValue="100 100 100 100" ColorOverride="Specialregistration" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Registration" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<Color Self="Color/Yellow" Model="Process" Space="CMYK" ColorValue="0 0 100 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Yellow" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937"/>
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal"/>
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937"/>
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" StrokeStyleType="$ID/" Name="$ID/Solid"/>
+	<FontFamily Self="di3e" Name="Times New Roman">
+		<Font Self="di3eFontnTimes New Roman Regular" FontFamily="Times New Roman" Name="Times New Roman Regular" PostScriptName="$ID/TimesNewRomanPSMT" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Times New Roman" FullNameNative="Times New Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.87"/>
+		<Font Self="di3eFontnTimes New Roman Italic" FontFamily="Times New Roman" Name="Times New Roman Italic" PostScriptName="$ID/TimesNewRomanPS-ItalicMT" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Times New Roman Italic" FullNameNative="Times New Roman Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.87"/>
+		<Font Self="di3eFontnTimes New Roman Bold" FontFamily="Times New Roman" Name="Times New Roman Bold" PostScriptName="$ID/TimesNewRomanPS-BoldMT" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Times New Roman Bold" FullNameNative="Times New Roman Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 6.87"/>
+		<Font Self="di3eFontnTimes New Roman Bold Italic" FontFamily="Times New Roman" Name="Times New Roman Bold Italic" PostScriptName="$ID/TimesNewRomanPS-BoldItalicMT" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Times New Roman Bold Italic" FullNameNative="Times New Roman Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 6.87"/>
+	</FontFamily>
+	<FontFamily Self="di7e" Name="Myriad Pro">
+		<Font Self="di7eFontnMyriad Pro Light Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Light Condensed" PostScriptName="$ID/MyriadPro-LightCond" Status="Installed" FontStyleName="Light Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light Condensed" FullNameNative="Myriad Pro Light Condensed" FontStyleNameNative="Light Condensed" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28"/>
+		<Font Self="di7eFontnMyriad Pro Light Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Light Condensed Italic" PostScriptName="$ID/MyriadPro-LightCondIt" Status="Installed" FontStyleName="Light Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light Condensed Italic" FullNameNative="Myriad Pro Light Condensed Italic" FontStyleNameNative="Light Condensed Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28"/>
+		<Font Self="di7eFontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="$ID/MyriadPro-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7eFontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="$ID/MyriadPro-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7eFontnMyriad Pro Semibold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Condensed" PostScriptName="$ID/MyriadPro-SemiboldCond" Status="Installed" FontStyleName="Semibold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Condensed" FullNameNative="Myriad Pro Semibold Condensed" FontStyleNameNative="Semibold Condensed" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28"/>
+		<Font Self="di7eFontnMyriad Pro Semibold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Condensed Italic" PostScriptName="$ID/MyriadPro-SemiboldCondIt" Status="Installed" FontStyleName="Semibold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Condensed Italic" FullNameNative="Myriad Pro Semibold Condensed Italic" FontStyleNameNative="Semibold Condensed Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28"/>
+		<Font Self="di7eFontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="$ID/MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7eFontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="$ID/MyriadPro-BoldCondIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7eFontnMyriad Pro Black Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Black Condensed" PostScriptName="$ID/MyriadPro-BlackCond" Status="Installed" FontStyleName="Black Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black Condensed" FullNameNative="Myriad Pro Black Condensed" FontStyleNameNative="Black Condensed" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28"/>
+		<Font Self="di7eFontnMyriad Pro Black Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Black Condensed Italic" PostScriptName="$ID/MyriadPro-BlackCondIt" Status="Installed" FontStyleName="Black Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black Condensed Italic" FullNameNative="Myriad Pro Black Condensed Italic" FontStyleNameNative="Black Condensed Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28"/>
+		<Font Self="di7eFontnMyriad Pro Light SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro Light SemiCondensed" PostScriptName="$ID/MyriadPro-LightSemiCn" Status="Installed" FontStyleName="Light SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light SemiCondensed" FullNameNative="Myriad Pro Light SemiCondensed" FontStyleNameNative="Light SemiCondensed" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Light SemiCondensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Light SemiCondensed Italic" PostScriptName="$ID/MyriadPro-LightSemiCnIt" Status="Installed" FontStyleName="Light SemiCondensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light SemiCondensed Italic" FullNameNative="Myriad Pro Light SemiCondensed Italic" FontStyleNameNative="Light SemiCondensed Italic" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro SemiCondensed" PostScriptName="$ID/MyriadPro-SemiCn" Status="Installed" FontStyleName="SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro SemiCondensed" FullNameNative="Myriad Pro SemiCondensed" FontStyleNameNative="SemiCondensed" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro SemiCondensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro SemiCondensed Italic" PostScriptName="$ID/MyriadPro-SemiCnIt" Status="Installed" FontStyleName="SemiCondensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro SemiCondensed Italic" FullNameNative="Myriad Pro SemiCondensed Italic" FontStyleNameNative="SemiCondensed Italic" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Semibold SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro Semibold SemiCondensed" PostScriptName="$ID/MyriadPro-SemiboldSemiCn" Status="Installed" FontStyleName="Semibold SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold SemiCondensed" FullNameNative="Myriad Pro Semibold SemiCondensed" FontStyleNameNative="Semibold SemiCondensed" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Semibold SemiCondensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold SemiCondensed Italic" PostScriptName="$ID/MyriadPro-SemiboldSemiCnIt" Status="Installed" FontStyleName="Semibold SemiCondensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold SemiCondensed Italic" FullNameNative="Myriad Pro Semibold SemiCondensed Italic" FontStyleNameNative="Semibold SemiCondensed Italic" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Bold SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold SemiCondensed" PostScriptName="$ID/MyriadPro-BoldSemiCn" Status="Installed" FontStyleName="Bold SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold SemiCondensed" FullNameNative="Myriad Pro Bold SemiCondensed" FontStyleNameNative="Bold SemiCondensed" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Bold SemiCondensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold SemiCondensed Italic" PostScriptName="$ID/MyriadPro-BoldSemiCnIt" Status="Installed" FontStyleName="Bold SemiCondensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold SemiCondensed Italic" FullNameNative="Myriad Pro Bold SemiCondensed Italic" FontStyleNameNative="Bold SemiCondensed Italic" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Light" FontFamily="Myriad Pro" Name="Myriad Pro Light" PostScriptName="$ID/MyriadPro-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light" FullNameNative="Myriad Pro Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28"/>
+		<Font Self="di7eFontnMyriad Pro Light Italic" FontFamily="Myriad Pro" Name="Myriad Pro Light Italic" PostScriptName="$ID/MyriadPro-LightIt" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light Italic" FullNameNative="Myriad Pro Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28"/>
+		<Font Self="di7eFontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="$ID/MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7eFontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="$ID/MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7eFontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="$ID/MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7eFontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="$ID/MyriadPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7eFontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="$ID/MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7eFontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="$ID/MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7eFontnMyriad Pro Black" FontFamily="Myriad Pro" Name="Myriad Pro Black" PostScriptName="$ID/MyriadPro-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black" FullNameNative="Myriad Pro Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28"/>
+		<Font Self="di7eFontnMyriad Pro Black Italic" FontFamily="Myriad Pro" Name="Myriad Pro Black Italic" PostScriptName="$ID/MyriadPro-BlackIt" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black Italic" FullNameNative="Myriad Pro Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28"/>
+		<Font Self="di7eFontnMyriad Pro Light SemiExtended" FontFamily="Myriad Pro" Name="Myriad Pro Light SemiExtended" PostScriptName="$ID/MyriadPro-LightSemiExt" Status="Installed" FontStyleName="Light SemiExtended" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light SemiExtended" FullNameNative="Myriad Pro Light SemiExtended" FontStyleNameNative="Light SemiExtended" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Light SemiExtended Italic" FontFamily="Myriad Pro" Name="Myriad Pro Light SemiExtended Italic" PostScriptName="$ID/MyriadPro-LightSemiExtIt" Status="Installed" FontStyleName="Light SemiExtended Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light SemiExtended Italic" FullNameNative="Myriad Pro Light SemiExtended Italic" FontStyleNameNative="Light SemiExtended Italic" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro SemiExtended" FontFamily="Myriad Pro" Name="Myriad Pro SemiExtended" PostScriptName="$ID/MyriadPro-SemiExt" Status="Installed" FontStyleName="SemiExtended" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro SemiExtended" FullNameNative="Myriad Pro SemiExtended" FontStyleNameNative="SemiExtended" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro SemiExtended Italic" FontFamily="Myriad Pro" Name="Myriad Pro SemiExtended Italic" PostScriptName="$ID/MyriadPro-SemiExtIt" Status="Installed" FontStyleName="SemiExtended Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro SemiExtended Italic" FullNameNative="Myriad Pro SemiExtended Italic" FontStyleNameNative="SemiExtended Italic" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Semibold SemiExtended" FontFamily="Myriad Pro" Name="Myriad Pro Semibold SemiExtended" PostScriptName="$ID/MyriadPro-SemiboldSemiExt" Status="Installed" FontStyleName="Semibold SemiExtended" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold SemiExtended" FullNameNative="Myriad Pro Semibold SemiExtended" FontStyleNameNative="Semibold SemiExtended" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Semibold SemiExtended Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold SemiExtended Italic" PostScriptName="$ID/MyriadPro-SemiboldSemiExtIt" Status="Installed" FontStyleName="Semibold SemiExtended Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold SemiExtended Italic" FullNameNative="Myriad Pro Semibold SemiExtended Italic" FontStyleNameNative="Semibold SemiExtended Italic" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Bold SemiExtended" FontFamily="Myriad Pro" Name="Myriad Pro Bold SemiExtended" PostScriptName="$ID/MyriadPro-BoldSemiExt" Status="Installed" FontStyleName="Bold SemiExtended" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold SemiExtended" FullNameNative="Myriad Pro Bold SemiExtended" FontStyleNameNative="Bold SemiExtended" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+		<Font Self="di7eFontnMyriad Pro Bold SemiExtended Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold SemiExtended Italic" PostScriptName="$ID/MyriadPro-BoldSemiExtIt" Status="Installed" FontStyleName="Bold SemiExtended Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold SemiExtended Italic" FullNameNative="Myriad Pro Bold SemiExtended Italic" FontStyleNameNative="Bold SemiExtended Italic" PlatformName="$ID/" Version="Version 2.092;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150"/>
+	</FontFamily>
+	<FontFamily Self="di7f" Name="Minion Pro">
+		<Font Self="di7fFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="$ID/MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7fFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="$ID/MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7fFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="$ID/MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7fFontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="$ID/MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7fFontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="$ID/MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7fFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="$ID/MinionPro-MediumIt" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7fFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="$ID/MinionPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7fFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="$ID/MinionPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7fFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="$ID/MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+		<Font Self="di7fFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="$ID/MinionPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671"/>
+	</FontFamily>
+	<FontFamily Self="di8c" Name="Kozuka Mincho Pro">
+		<Font Self="di8cFontnKozuka Mincho Pro EL" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro EL" PostScriptName="$ID/KozMinPro-ExtraLight" Status="Installed" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro EL" FullNameNative="小塚明朝 Pro EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 4.000;PS 4;Core 1.0.38;makeotf.lib1.7.12746"/>
+		<Font Self="di8cFontnKozuka Mincho Pro L" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro L" PostScriptName="$ID/KozMinPro-Light" Status="Installed" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro L" FullNameNative="小塚明朝 Pro L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 4.000;PS 4;Core 1.0.38;makeotf.lib1.7.12746"/>
+		<Font Self="di8cFontnKozuka Mincho Pro R" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro R" PostScriptName="$ID/KozMinPro-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro R" FullNameNative="小塚明朝 Pro R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 4.001;PS 4.001;Core 1.0.38;makeotf.lib1.7.9028"/>
+		<Font Self="di8cFontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="$ID/KozMinPro-Medium" Status="Installed" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.000;PS 4;Core 1.0.38;makeotf.lib1.7.12746"/>
+		<Font Self="di8cFontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="$ID/KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.000;PS 4;Core 1.0.38;makeotf.lib1.7.12746"/>
+		<Font Self="di8cFontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="$ID/KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.000;PS 4;Core 1.0.38;makeotf.lib1.7.12746"/>
+	</FontFamily>
+	<FontFamily Self="dida" Name="Helvetica">
+		<Font Self="didaFontnHelvetica Regular" FontFamily="Helvetica" Name="Helvetica Regular" PostScriptName="$ID/Helvetica" Status="NotAvailable" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Helvetica" FullNameNative="Helvetica" FontStyleNameNative="Regular" PlatformName="$ID/" Version="6.1d18e1"/>
+		<Font Self="didaFontnHelvetica Bold" FontFamily="Helvetica" Name="Helvetica Bold" PostScriptName="$ID/Helvetica-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Bold" FullNameNative="Helvetica Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="6.1d18e1"/>
+		<Font Self="didaFontnHelvetica Oblique" FontFamily="Helvetica" Name="Helvetica Oblique" PostScriptName="$ID/Helvetica-Oblique" Status="NotAvailable" FontStyleName="Oblique" FontType="TrueType" WritingScript="0" FullName="Helvetica Oblique" FullNameNative="Helvetica Oblique" FontStyleNameNative="Oblique" PlatformName="$ID/" Version="6.1d18e1"/>
+		<Font Self="didaFontnHelvetica Bold Oblique" FontFamily="Helvetica" Name="Helvetica Bold Oblique" PostScriptName="$ID/Helvetica-BoldOblique" Status="NotAvailable" FontStyleName="Bold Oblique" FontType="TrueType" WritingScript="0" FullName="Helvetica Bold Oblique" FullNameNative="Helvetica Bold Oblique" FontStyleNameNative="Bold Oblique" PlatformName="$ID/" Version="6.1d18e1"/>
+		<Font Self="didaFontnHelvetica Light" FontFamily="Helvetica" Name="Helvetica Light" PostScriptName="$ID/Helvetica-Light" Status="NotAvailable" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Helvetica Light" FullNameNative="Helvetica Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="6.0d1e1"/>
+		<Font Self="didaFontnHelvetica Light Oblique" FontFamily="Helvetica" Name="Helvetica Light Oblique" PostScriptName="$ID/Helvetica-LightOblique" Status="NotAvailable" FontStyleName="Light Oblique" FontType="TrueType" WritingScript="0" FullName="Helvetica Light Oblique" FullNameNative="Helvetica Light Oblique" FontStyleNameNative="Light Oblique" PlatformName="$ID/" Version="6.0d1e1"/>
+		<Font Self="didaFontnHelvetica Medium" FontFamily="Helvetica" Name="Helvetica Medium" PostScriptName="Helvetica" Status="NotAvailable" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Helvetica" FullNameNative="Helvetica" FontStyleNameNative="Medium" PlatformName="$ID/" Version=""/>
+	</FontFamily>
+	<FontFamily Self="didb" Name="New Century Schoolbook LT Std">
+		<Font Self="didbFontnNew Century Schoolbook LT Std Roman" FontFamily="New Century Schoolbook LT Std" Name="New Century Schoolbook LT Std Roman" PostScriptName="$ID/NewCenturySchlbkLTStd-Roman" Status="Installed" FontStyleName="Roman" FontType="OpenTypeCFF" WritingScript="0" FullName="New Century Schoolbook LT Std Roman" FullNameNative="New Century Schoolbook LT Std Roman" FontStyleNameNative="Roman" PlatformName="$ID/" Version="OTF 1.029;PS 003.001;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="didbFontnNew Century Schoolbook LT Std Italic" FontFamily="New Century Schoolbook LT Std" Name="New Century Schoolbook LT Std Italic" PostScriptName="$ID/NewCenturySchlbkLTStd-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="New Century Schoolbook LT Std Italic" FullNameNative="New Century Schoolbook LT Std Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="OTF 1.029;PS 003.001;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="didbFontnNew Century Schoolbook LT Std Bold" FontFamily="New Century Schoolbook LT Std" Name="New Century Schoolbook LT Std Bold" PostScriptName="$ID/NewCenturySchlbkLTStd-Bd" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="New Century Schoolbook LT Std Bold" FullNameNative="New Century Schoolbook LT Std Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="OTF 1.029;PS 003.001;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="didbFontnNew Century Schoolbook LT Std Bold Italic" FontFamily="New Century Schoolbook LT Std" Name="New Century Schoolbook LT Std Bold Italic" PostScriptName="$ID/NewCenturySchlbkLTStd-BdIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="New Century Schoolbook LT Std Bold Italic" FullNameNative="New Century Schoolbook LT Std Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="OTF 1.029;PS 003.001;Core 1.0.33;makeotf.lib1.4.1585"/>
+	</FontFamily>
+	<FontFamily Self="dide" Name="Futura Std">
+		<Font Self="dideFontnFutura Std Light Condensed" FontFamily="Futura Std" Name="Futura Std Light Condensed" PostScriptName="$ID/FuturaStd-CondensedLight" Status="Installed" FontStyleName="Light Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Light Condensed" FullNameNative="Futura Std Light Condensed" FontStyleNameNative="Light Condensed" PlatformName="$ID/" Version="OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Light Condensed Oblique" FontFamily="Futura Std" Name="Futura Std Light Condensed Oblique" PostScriptName="$ID/FuturaStd-CondensedLightObl" Status="Installed" FontStyleName="Light Condensed Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Light Condensed Oblique" FullNameNative="Futura Std Light Condensed Oblique" FontStyleNameNative="Light Condensed Oblique" PlatformName="$ID/" Version="OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Medium Condensed" FontFamily="Futura Std" Name="Futura Std Medium Condensed" PostScriptName="$ID/FuturaStd-Condensed" Status="Installed" FontStyleName="Medium Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Medium Condensed" FullNameNative="Futura Std Medium Condensed" FontStyleNameNative="Medium Condensed" PlatformName="$ID/" Version="OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Medium Condensed Oblique" FontFamily="Futura Std" Name="Futura Std Medium Condensed Oblique" PostScriptName="$ID/FuturaStd-CondensedOblique" Status="Installed" FontStyleName="Medium Condensed Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Medium Condensed Oblique" FullNameNative="Futura Std Medium Condensed Oblique" FontStyleNameNative="Medium Condensed Oblique" PlatformName="$ID/" Version="OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Bold Condensed" FontFamily="Futura Std" Name="Futura Std Bold Condensed" PostScriptName="$ID/FuturaStd-CondensedBold" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Bold Condensed" FullNameNative="Futura Std Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Bold Condensed Oblique" FontFamily="Futura Std" Name="Futura Std Bold Condensed Oblique" PostScriptName="$ID/FuturaStd-CondensedBoldObl" Status="Installed" FontStyleName="Bold Condensed Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Bold Condensed Oblique" FullNameNative="Futura Std Bold Condensed Oblique" FontStyleNameNative="Bold Condensed Oblique" PlatformName="$ID/" Version="OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Extra Bold Condensed" FontFamily="Futura Std" Name="Futura Std Extra Bold Condensed" PostScriptName="$ID/FuturaStd-CondensedExtraBd" Status="Installed" FontStyleName="Extra Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Extra Bold Condensed" FullNameNative="Futura Std Extra Bold Condensed" FontStyleNameNative="Extra Bold Condensed" PlatformName="$ID/" Version="OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Extra Bold Condensed Oblique" FontFamily="Futura Std" Name="Futura Std Extra Bold Condensed Oblique" PostScriptName="$ID/FuturaStd-CondExtraBoldObl" Status="Installed" FontStyleName="Extra Bold Condensed Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Extra Bold Condensed Oblique" FullNameNative="Futura Std Extra Bold Condensed Oblique" FontStyleNameNative="Extra Bold Condensed Oblique" PlatformName="$ID/" Version="OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Light" FontFamily="Futura Std" Name="Futura Std Light" PostScriptName="$ID/FuturaStd-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Light" FullNameNative="Futura Std Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Light Oblique" FontFamily="Futura Std" Name="Futura Std Light Oblique" PostScriptName="$ID/FuturaStd-LightOblique" Status="Installed" FontStyleName="Light Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Light Oblique" FullNameNative="Futura Std Light Oblique" FontStyleNameNative="Light Oblique" PlatformName="$ID/" Version="OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Book" FontFamily="Futura Std" Name="Futura Std Book" PostScriptName="$ID/FuturaStd-Book" Status="Installed" FontStyleName="Book" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Book" FullNameNative="Futura Std Book" FontStyleNameNative="Book" PlatformName="$ID/" Version="OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Book Oblique" FontFamily="Futura Std" Name="Futura Std Book Oblique" PostScriptName="$ID/FuturaStd-BookOblique" Status="Installed" FontStyleName="Book Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Book Oblique" FullNameNative="Futura Std Book Oblique" FontStyleNameNative="Book Oblique" PlatformName="$ID/" Version="OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Medium" FontFamily="Futura Std" Name="Futura Std Medium" PostScriptName="$ID/FuturaStd-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Medium" FullNameNative="Futura Std Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Medium Oblique" FontFamily="Futura Std" Name="Futura Std Medium Oblique" PostScriptName="$ID/FuturaStd-MediumOblique" Status="Installed" FontStyleName="Medium Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Medium Oblique" FullNameNative="Futura Std Medium Oblique" FontStyleNameNative="Medium Oblique" PlatformName="$ID/" Version="OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Heavy" FontFamily="Futura Std" Name="Futura Std Heavy" PostScriptName="$ID/FuturaStd-Heavy" Status="Installed" FontStyleName="Heavy" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Heavy" FullNameNative="Futura Std Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Heavy Oblique" FontFamily="Futura Std" Name="Futura Std Heavy Oblique" PostScriptName="$ID/FuturaStd-HeavyOblique" Status="Installed" FontStyleName="Heavy Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Heavy Oblique" FullNameNative="Futura Std Heavy Oblique" FontStyleNameNative="Heavy Oblique" PlatformName="$ID/" Version="OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Bold" FontFamily="Futura Std" Name="Futura Std Bold" PostScriptName="$ID/FuturaStd-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Bold" FullNameNative="Futura Std Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Bold Oblique" FontFamily="Futura Std" Name="Futura Std Bold Oblique" PostScriptName="$ID/FuturaStd-BoldOblique" Status="Installed" FontStyleName="Bold Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Bold Oblique" FullNameNative="Futura Std Bold Oblique" FontStyleNameNative="Bold Oblique" PlatformName="$ID/" Version="OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Extra Bold" FontFamily="Futura Std" Name="Futura Std Extra Bold" PostScriptName="$ID/FuturaStd-ExtraBold" Status="Installed" FontStyleName="Extra Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Extra Bold" FullNameNative="Futura Std Extra Bold" FontStyleNameNative="Extra Bold" PlatformName="$ID/" Version="OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585"/>
+		<Font Self="dideFontnFutura Std Extra Bold Oblique" FontFamily="Futura Std" Name="Futura Std Extra Bold Oblique" PostScriptName="$ID/FuturaStd-ExtraBoldOblique" Status="Installed" FontStyleName="Extra Bold Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Futura Std Extra Bold Oblique" FullNameNative="Futura Std Extra Bold Oblique" FontStyleNameNative="Extra Bold Oblique" PlatformName="$ID/" Version="OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585"/>
+	</FontFamily>
+	<FontFamily Self="didf" Name="$ID/Times New Roman MT Std">
+		<Font Self="didfFontnTimes New Roman MT Std Condensed" FontFamily="$ID/Times New Roman MT Std" Name="$ID/Times New Roman MT Std Condensed" PostScriptName="$ID/TimesNewRomanMTStd-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Times New Roman MT Std Condensed" FullNameNative="Times New Roman MT Std Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 1.047;PS 001.002;Core 1.0.38;makeotf.lib1.6.5960"/>
+		<Font Self="didfFontnTimes New Roman MT Std Condensed Italic" FontFamily="$ID/Times New Roman MT Std" Name="$ID/Times New Roman MT Std Condensed Italic" PostScriptName="$ID/TimesNewRomanMTStd-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Times New Roman MT Std Condensed Italic" FullNameNative="Times New Roman MT Std Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 1.047;PS 001.001;Core 1.0.38;makeotf.lib1.6.5960"/>
+		<Font Self="didfFontnTimes New Roman MT Std Bold Condensed" FontFamily="$ID/Times New Roman MT Std" Name="$ID/Times New Roman MT Std Bold Condensed" PostScriptName="$ID/TimesNewRomanMTStd-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Times New Roman MT Std Bold Condensed" FullNameNative="Times New Roman MT Std Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 1.047;PS 001.001;Core 1.0.38;makeotf.lib1.6.5960"/>
+		<Font Self="didfFontnTimes New Roman MT Std Regular" FontFamily="$ID/Times New Roman MT Std" Name="$ID/Times New Roman MT Std Regular" PostScriptName="$ID/TimesNewRomanMTStd" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Times New Roman MT Std" FullNameNative="Times New Roman MT Std" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.047;PS 001.005;Core 1.0.38;makeotf.lib1.6.5960"/>
+		<Font Self="didfFontnTimes New Roman MT Std Italic" FontFamily="$ID/Times New Roman MT Std" Name="$ID/Times New Roman MT Std Italic" PostScriptName="$ID/TimesNewRomanMTStd-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Times New Roman MT Std Italic" FullNameNative="Times New Roman MT Std Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.047;PS 001.006;Core 1.0.38;makeotf.lib1.6.5960"/>
+		<Font Self="didfFontnTimes New Roman MT Std Bold" FontFamily="$ID/Times New Roman MT Std" Name="$ID/Times New Roman MT Std Bold" PostScriptName="$ID/TimesNewRomanMTStd-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Times New Roman MT Std Bold" FullNameNative="Times New Roman MT Std Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.047;PS 001.005;Core 1.0.38;makeotf.lib1.6.5960"/>
+		<Font Self="didfFontnTimes New Roman MT Std Bold Italic" FontFamily="$ID/Times New Roman MT Std" Name="$ID/Times New Roman MT Std Bold Italic" PostScriptName="$ID/TimesNewRomanMTStd-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Times New Roman MT Std Bold Italic" FullNameNative="Times New Roman MT Std Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.047;PS 001.006;Core 1.0.38;makeotf.lib1.6.5960"/>
+	</FontFamily>
+	<FontFamily Self="die0" Name="ITC Garamond Std">
+		<Font Self="die0FontnITC Garamond Std Ultra Condensed" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Ultra Condensed" PostScriptName="$ID/ITCGaramondStd-UltCond" Status="Installed" FontStyleName="Ultra Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Ultra Condensed" FullNameNative="ITC Garamond Std Ultra Condensed" FontStyleNameNative="Ultra Condensed" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Ultra Condensed Italic" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Ultra Condensed Italic" PostScriptName="$ID/ITCGaramondStd-UltCondIta" Status="Installed" FontStyleName="Ultra Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Ultra Condensed Italic" FullNameNative="ITC Garamond Std Ultra Condensed Italic" FontStyleNameNative="Ultra Condensed Italic" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Light Condensed" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Light Condensed" PostScriptName="$ID/ITCGaramondStd-LtCond" Status="Installed" FontStyleName="Light Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Light Condensed" FullNameNative="ITC Garamond Std Light Condensed" FontStyleNameNative="Light Condensed" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Light Condensed Italic" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Light Condensed Italic" PostScriptName="$ID/ITCGaramondStd-LtCondIta" Status="Installed" FontStyleName="Light Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Light Condensed Italic" FullNameNative="ITC Garamond Std Light Condensed Italic" FontStyleNameNative="Light Condensed Italic" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Book Condensed" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Book Condensed" PostScriptName="$ID/ITCGaramondStd-BkCond" Status="Installed" FontStyleName="Book Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Book Condensed" FullNameNative="ITC Garamond Std Book Condensed" FontStyleNameNative="Book Condensed" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Book Condensed Italic" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Book Condensed Italic" PostScriptName="$ID/ITCGaramondStd-BkCondIta" Status="Installed" FontStyleName="Book Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Book Condensed Italic" FullNameNative="ITC Garamond Std Book Condensed Italic" FontStyleNameNative="Book Condensed Italic" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Bold Condensed" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Bold Condensed" PostScriptName="$ID/ITCGaramondStd-BdCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Bold Condensed" FullNameNative="ITC Garamond Std Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Bold Condensed Italic" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Bold Condensed Italic" PostScriptName="$ID/ITCGaramondStd-BdCondIta" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Bold Condensed Italic" FullNameNative="ITC Garamond Std Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Light" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Light" PostScriptName="$ID/ITCGaramondStd-Lt" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Light" FullNameNative="ITC Garamond Std Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Light Italic" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Light Italic" PostScriptName="$ID/ITCGaramondStd-LtIta" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Light Italic" FullNameNative="ITC Garamond Std Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Book" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Book" PostScriptName="$ID/ITCGaramondStd-Bk" Status="Installed" FontStyleName="Book" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Book" FullNameNative="ITC Garamond Std Book" FontStyleNameNative="Book" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Book Italic" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Book Italic" PostScriptName="$ID/ITCGaramondStd-BkIta" Status="Installed" FontStyleName="Book Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Book Italic" FullNameNative="ITC Garamond Std Book Italic" FontStyleNameNative="Book Italic" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Bold" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Bold" PostScriptName="$ID/ITCGaramondStd-Bd" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Bold" FullNameNative="ITC Garamond Std Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Bold Italic" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Bold Italic" PostScriptName="$ID/ITCGaramondStd-BdIta" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Bold Italic" FullNameNative="ITC Garamond Std Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Ultra" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Ultra" PostScriptName="$ID/ITCGaramondStd-Ult" Status="Installed" FontStyleName="Ultra" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Ultra" FullNameNative="ITC Garamond Std Ultra" FontStyleNameNative="Ultra" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+		<Font Self="die0FontnITC Garamond Std Ultra Italic" FontFamily="ITC Garamond Std" Name="ITC Garamond Std Ultra Italic" PostScriptName="$ID/ITCGaramondStd-UltIta" Status="Installed" FontStyleName="Ultra Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="ITC Garamond Std Ultra Italic" FullNameNative="ITC Garamond Std Ultra Italic" FontStyleNameNative="Ultra Italic" PlatformName="$ID/" Version="OTF 1.018;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585"/>
+	</FontFamily>
+	<FontFamily Self="dif6" Name="$ID/Helvetica (T1)"/>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="u8b" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u8d" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u8e" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u8f" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u90" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Times New Roman</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u91" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Times New Roman</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName1" Name="$ID/kMojikumiDefaultName1"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName2" Name="$ID/kMojikumiDefaultName2"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName3" Name="$ID/kMojikumiDefaultName3"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName4" Name="$ID/kMojikumiDefaultName4"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName5" Name="$ID/kMojikumiDefaultName5"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName6" Name="$ID/kMojikumiDefaultName6"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName7" Name="$ID/kMojikumiDefaultName7"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName8" Name="$ID/kMojikumiDefaultName8"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName9" Name="$ID/kMojikumiDefaultName9"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName10" Name="$ID/kMojikumiDefaultName10"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName11" Name="$ID/kMojikumiDefaultName11"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName12" Name="$ID/kMojikumiDefaultName12"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName13" Name="$ID/kMojikumiDefaultName13"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName14" Name="$ID/kMojikumiDefaultName14"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName15" Name="$ID/kMojikumiDefaultName15"/>
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName16" Name="$ID/kMojikumiDefaultName16"/>
+	<RootCharacterStyleGroup Self="u6a">
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" Name="$ID/[No character style]"/>
+	</RootCharacterStyleGroup>
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false"/>
+	<RootParagraphStyleGroup Self="u69">
+		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: USA" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="0" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" OTFSwash="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="false" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePosition" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
+			<Properties>
+				<Leading type="enumeration">Auto</Leading>
+				<AppliedFont type="string">Helvetica</AppliedFont>
+				<RuleAboveColor type="string">Text Color</RuleAboveColor>
+				<RuleBelowColor type="string">Text Color</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Solid</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
+				<BalanceRaggedLines type="enumeration">NoBalancing</BalanceRaggedLines>
+				<RuleAboveGapColor type="object">Swatch/None</RuleAboveGapColor>
+				<RuleBelowGapColor type="object">Swatch/None</RuleBelowGapColor>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<Mojikumi type="enumeration">Nothing</Mojikumi>
+				<KinsokuSet type="enumeration">Nothing</KinsokuSet>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+				<BulletChar BulletCharacterType="UnicodeOnly" BulletCharacterValue="8226"/>
+				<NumberingFormat type="string">1, 2, 3, 4...</NumberingFormat>
+				<BulletsFont type="string">$ID/</BulletsFont>
+				<BulletsFontStyle type="enumeration">Nothing</BulletsFontStyle>
+				<AppliedNumberingList type="object">NumberingList/$ID/[Default]</AppliedNumberingList>
+				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0"/>
+				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
+				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/MLCT Paragraph Styles" Name="$ID/MLCT Paragraph Styles">
+			<ParagraphStyle Self="ParagraphStyle/MLCT Paragraph Styles%3aBody Copy" Name="MLCT Paragraph Styles:Body Copy" Imported="false" NextStyle="ParagraphStyle/MLCT Paragraph Styles%3aBody Copy" KeyboardShortcut="0 0" PointSize="10" FirstLineIndent="12" Justification="LeftJustified">
+				<Properties>
+					<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">$ID/Times New Roman MT Std</AppliedFont>
+				</Properties>
+			</ParagraphStyle>
+		</ParagraphStyleGroup>
+		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/PUE Paragraph Styles" Name="$ID/PUE Paragraph Styles">
+			<ParagraphStyle Self="ParagraphStyle/PUE Paragraph Styles%3aBody Copy" Name="PUE Paragraph Styles:Body Copy" Imported="false" NextStyle="ParagraphStyle/PUE Paragraph Styles%3aBody Copy" KeyboardShortcut="0 0" FontStyle="Roman" PointSize="10" FirstLineIndent="10" Justification="LeftJustified">
+				<Properties>
+					<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<Leading type="unit">10.5</Leading>
+					<AppliedFont type="string">New Century Schoolbook LT Std</AppliedFont>
+				</Properties>
+			</ParagraphStyle>
+		</ParagraphStyleGroup>
+		<ParagraphStyle Self="ParagraphStyle/Normal" Name="Normal" Imported="true" NextStyle="ParagraphStyle/Normal" KeyboardShortcut="0 0" FontStyle="Medium" Ligatures="false" BaselineShift="-0" HyphenateLadderLimit="0" AutoLeading="119.99969482421875" HyphenateAfterFirst="3" HyphenateCapitalizedWords="false" HyphenateWordsLongerThan="6" HyphenationZone="0" MaximumWordSpacing="150" MinimumWordSpacing="100" MaximumLetterSpacing="14.9993896484375" CharacterAlignment="AlignBaseline" RuleAboveTint="100" RuleBelowTint="100">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">$ID/Helvetica (T1)</AppliedFont>
+				<RuleAboveColor type="object">Color/Black</RuleAboveColor>
+				<RuleBelowColor type="object">Color/Black</RuleBelowColor>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<RootCellStyleGroup Self="u6f">
+		<CellStyle Self="CellStyle/$ID/[None]" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[None]"/>
+	</RootCellStyleGroup>
+	<RootTableStyleGroup Self="u71">
+		<TableStyle Self="TableStyle/$ID/[No table style]" Name="$ID/[No table style]" StrokeOrder="BestJoins" TopBorderStrokeWeight="1" TopBorderStrokeType="StrokeStyle/$ID/Solid" TopBorderStrokeColor="Color/Black" TopBorderStrokeTint="100" TopBorderStrokeOverprint="false" TopBorderStrokeGapColor="Color/Paper" TopBorderStrokeGapTint="100" TopBorderStrokeGapOverprint="false" LeftBorderStrokeWeight="1" LeftBorderStrokeType="StrokeStyle/$ID/Solid" LeftBorderStrokeColor="Color/Black" LeftBorderStrokeTint="100" LeftBorderStrokeOverprint="false" LeftBorderStrokeGapColor="Color/Paper" LeftBorderStrokeGapTint="100" LeftBorderStrokeGapOverprint="false" BottomBorderStrokeWeight="1" BottomBorderStrokeType="StrokeStyle/$ID/Solid" BottomBorderStrokeColor="Color/Black" BottomBorderStrokeTint="100" BottomBorderStrokeOverprint="false" BottomBorderStrokeGapColor="Color/Paper" BottomBorderStrokeGapTint="100" BottomBorderStrokeGapOverprint="false" RightBorderStrokeWeight="1" RightBorderStrokeType="StrokeStyle/$ID/Solid" RightBorderStrokeColor="Color/Black" RightBorderStrokeTint="100" RightBorderStrokeOverprint="false" RightBorderStrokeGapColor="Color/Paper" RightBorderStrokeGapTint="100" RightBorderStrokeGapOverprint="false" SpaceBefore="4" SpaceAfter="-4" SkipFirstAlternatingStrokeRows="0" SkipLastAlternatingStrokeRows="0" StartRowStrokeCount="0" StartRowStrokeColor="Color/Black" StartRowStrokeWeight="1" StartRowStrokeType="StrokeStyle/$ID/Solid" StartRowStrokeTint="100" StartRowStrokeGapOverprint="false" StartRowStrokeGapColor="Color/Paper" StartRowStrokeGapTint="100" StartRowStrokeOverprint="false" EndRowStrokeCount="0" EndRowStrokeColor="Color/Black" EndRowStrokeWeight="0.25" EndRowStrokeType="StrokeStyle/$ID/Solid" EndRowStrokeTint="100" EndRowStrokeOverprint="false" EndRowStrokeGapColor="Color/Paper" EndRowStrokeGapTint="100" EndRowStrokeGapOverprint="false" SkipFirstAlternatingStrokeColumns="0" SkipLastAlternatingStrokeColumns="0" StartColumnStrokeCount="0" StartColumnStrokeColor="Color/Black" StartColumnStrokeWeight="1" StartColumnStrokeType="StrokeStyle/$ID/Solid" StartColumnStrokeTint="100" StartColumnStrokeOverprint="false" StartColumnStrokeGapColor="Color/Paper" StartColumnStrokeGapTint="100" StartColumnStrokeGapOverprint="false" EndColumnStrokeCount="0" EndColumnStrokeColor="Color/Black" EndColumnStrokeWeight="0.25" EndColumnLineStyle="StrokeStyle/$ID/Solid" EndColumnStrokeTint="100" EndColumnStrokeOverprint="false" EndColumnStrokeGapColor="Color/Paper" EndColumnStrokeGapTint="100" EndColumnStrokeGapOverprint="false" ColumnFillsPriority="false" SkipFirstAlternatingFillRows="0" SkipLastAlternatingFillRows="0" StartRowFillColor="Color/Black" StartRowFillCount="0" StartRowFillTint="20" StartRowFillOverprint="false" EndRowFillCount="0" EndRowFillColor="Swatch/None" EndRowFillTint="100" EndRowFillOverprint="false" SkipFirstAlternatingFillColumns="0" SkipLastAlternatingFillColumns="0" StartColumnFillCount="0" StartColumnFillColor="Color/Black" StartColumnFillTint="20" StartColumnFillOverprint="false" EndColumnFillCount="0" EndColumnFillColor="Swatch/None" EndColumnFillTint="100" EndColumnFillOverprint="false" HeaderRegionSameAsBodyRegion="true" FooterRegionSameAsBodyRegion="true" LeftColumnRegionSameAsBodyRegion="true" RightColumnRegionSameAsBodyRegion="true" HeaderRegionCellStyle="n" FooterRegionCellStyle="n" LeftColumnRegionCellStyle="n" RightColumnRegionCellStyle="n" BodyRegionCellStyle="CellStyle/$ID/[None]"/>
+		<TableStyle Self="TableStyle/$ID/[Basic Table]" Name="$ID/[Basic Table]" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="string">$ID/[No table style]</BasedOn>
+			</Properties>
+		</TableStyle>
+	</RootTableStyleGroup>
+	<FootnoteOption StartAt="1" Prefix="" Suffix="" FootnoteTextStyle="ParagraphStyle/$ID/NormalParagraphStyle" FootnoteMarkerStyle="CharacterStyle/$ID/[No character style]" SeparatorText="&#x9;" SpaceBetween="0" Spacer="0" FootnoteFirstBaselineOffset="LeadingOffset" FootnoteMinimumFirstBaselineOffset="0" EosPlacement="false" NoSplitting="false" RuleOn="true" RuleLineWeight="1" RuleTint="100" RuleGapTint="100" RuleGapOverprint="false" RuleOverprint="false" RuleLeftIndent="0" RuleWidth="72" RuleOffset="0" ContinuingRuleOn="true" ContinuingRuleLineWeight="1" ContinuingRuleTint="100" ContinuingRuleGapTint="100" ContinuingRuleOverprint="false" ContinuingRuleGapOverprint="false" ContinuingRuleLeftIndent="0" ContinuingRuleWidth="288" ContinuingRuleOffset="0">
+		<Properties>
+			<FootnoteNumberingStyle type="enumeration">Arabic</FootnoteNumberingStyle>
+			<RestartNumbering type="enumeration">DontRestart</RestartNumbering>
+			<ShowPrefixSuffix type="enumeration">NoPrefixSuffix</ShowPrefixSuffix>
+			<MarkerPositioning type="enumeration">SuperscriptMarker</MarkerPositioning>
+			<RuleType type="object">StrokeStyle/$ID/Solid</RuleType>
+			<RuleColor type="object">Color/Black</RuleColor>
+			<RuleGapColor type="object">Swatch/None</RuleGapColor>
+			<ContinuingRuleType type="object">StrokeStyle/$ID/Solid</ContinuingRuleType>
+			<ContinuingRuleColor type="object">Color/Black</ContinuingRuleColor>
+			<ContinuingRuleGapColor type="object">Swatch/None</ContinuingRuleGapColor>
+		</Properties>
+	</FootnoteOption>
+	<ConditionalTextPreference ShowConditionIndicators="ShowIndicators" ActiveConditionSet="n"/>
+	<XMLTag Self="XMLTag/Root" Name="Root">
+		<Properties>
+			<TagColor type="enumeration">LightBlue</TagColor>
+		</Properties>
+	</XMLTag>
+	<CrossReferenceFormat Self="u80" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u80BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u80BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u80BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u80BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u81" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u81BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u81BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u81BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u82" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u82BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u82BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u82BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u82BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u83" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u83BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u83BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u83BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u84" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u84BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u84BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u84BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u85" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u85BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u86" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u86BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u86BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u86BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u86BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u87" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u87BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u87BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u87BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u88" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u88BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u88BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<Story Self="uc1" TrackChanges="false" StoryTitle="com campus notes" AppliedNamedGrid="n">
+		<Properties>
+			<AppliedIndexInstance type="enumeration">Nothing</AppliedIndexInstance>
+		</Properties>
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection"/>
+		<MetadataPacketPreference>
+			<Properties>
+				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+					<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2.2-c063 53.352624, 2008/07/30-18:12:18        ">
+						<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+							<rdf:Description rdf:about=""
+								xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+								xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/">
+								<xmp:CreateDate>2009-10-13T13:52:01-05:00</xmp:CreateDate>
+								<xmp:MetadataDate>2015-03-03T10:22:37-06:00</xmp:MetadataDate>
+								<xmp:ModifyDate>2015-03-03T10:22:37-06:00</xmp:ModifyDate>
+								<xmp:CreatorTool>Adobe InCopy 6.0</xmp:CreatorTool>
+								<xmp:Thumbnails>
+									<rdf:Alt>
+										<rdf:li rdf:parseType="Resource">
+											<xmpGImg:format>JPEG</xmpGImg:format>
+											<xmpGImg:width>256</xmpGImg:width>
+											<xmpGImg:height>256</xmpGImg:height>
+											<xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGSAAAAAAQUAArFD/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIh0i&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAEA&#xA;AMYDAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwCbeU/KflW58q6L&#xA;cXGi6fNNNp9rJJJJaws7u0MbMzM0ZJJJ3OKpt/gzyf8A9WHTf+kOD/qnirv8GeT/APqw6b/0hwf9&#xA;U8Vd/gzyf/1YdN/6Q4P+qeKu/wAGeT/+rDpv/SHB/wBU8Vd/gzyf/wBWHTf+kOD/AKp4q7/Bnk//&#xA;AKsOm/8ASHB/1TxV3+DPJ/8A1YdN/wCkOD/qnirv8GeT/wDqw6b/ANIcH/VPFXf4M8n/APVh03/p&#xA;Dg/6p4q7/Bnk/wD6sOm/9IcH/VPFXf4M8n/9WHTf+kOD/qnirv8ABnk//qw6b/0hwf8AVPFXf4M8&#xA;n/8AVh03/pDg/wCqeKu/wZ5P/wCrDpv/AEhwf9U8Vd/gzyf/ANWHTf8ApDg/6p4q7/Bnk/8A6sOm&#xA;/wDSHB/1TxV3+DPJ/wD1YdN/6Q4P+qeKu/wZ5P8A+rDpv/SHB/1TxV3+DPJ//Vh03/pDg/6p4q7/&#xA;AAZ5P/6sOm/9IcH/AFTxV3+DPJ//AFYdN/6Q4P8Aqnirv8GeT/8Aqw6b/wBIcH/VPFXf4M8n/wDV&#xA;h03/AKQ4P+qeKpTrPlPyrFqOgJFounok+oSRyqtrCA6Cwv5OLgR7jkimh7gYqm3kz/lD9B/7Ztn/&#xA;AMmI8VReq6rb6ZbSM00K3HBmghmlSL1GHQDmy98VYt/jjVf+WSy/6TYf+qmKu/xxqv8AyyWX/SbD&#xA;/wBVMVd/jjVf+WSy/wCk2H/qpirv8car/wAsll/0mw/9VMVZVo19LqWmw3s6JHJLy5LE6yoOLsmz&#xA;oSD0xVHYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYqkuu/wDHU8uf9tKT/unalirvJn/K&#xA;H6D/ANs2z/5MR4qgfOOl3l2qX0P1QQWkTtM10hdgB8Xw8Y37DFUps9R8grawrexwvchFEzJBJxL0&#xA;+Ir8A2r7YqrfpL8t/wDfEf8AyIk/5pxV36S/Lf8A3xH/AMiJP+acVd+kvy3/AN8R/wDIiT/mnFWV&#xA;aNLps2mwyaQoWybl6QVSo2dg3wtQ/ariqOxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV&#xA;Jdd/46nlz/tpSf8AdO1LFXeTP+UP0H/tm2f/ACYjxVAeb31NZ7cWP1/gUbmLGMuta/t++Kscrrv8&#xA;utf9I+Kurrv8utf9I+Kurrv8utf9I+Kurrv8utf9I+Ks58uev+hrb6z64l+Pl9aXhL/ePTkvy6e2&#xA;KpnirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdiqS67/wAdTy5/20pP+6dqWKu8mf8AKH6D&#xA;/wBs2z/5MR4qlfnbTLm8eC5jsUu4beNzLK8whEYrXesiYqwz6tB/yxWf/SfH/wBlGKsisdH8jyWk&#xA;Ul9cQwXLKDLGt0CFbwBDN+vFVf8AQf5e/wDLZH/0kj+uKu/Qf5e/8tkf/SSP64qyrRoNOttNhh0p&#xA;xJZry9J1bmDV2LfF3+InFUdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdiqS67/wAdTy5/&#xA;20pP+6dqWKu8mf8AKH6D/wBs2z/5MR4qlfnbU7mzeC2jvktIbiNxLE8ImEgrTesb4qwz6zB/y22f&#xA;/SBH/wBk+Ku+swf8ttn/ANIEf/ZPirvrMH/LbZ/9IEf/AGT4q76zB/y22f8A0gR/9k+KvSfKbK/l&#xA;+0ZXSUH1PjjjESn97J0RVUD7sVTjFXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FUl13/jq&#xA;eXP+2lJ/3TtSxV3kz/lD9B/7Ztn/AMmI8VQHm6PU3nt/qA1AqEbn9RkKLWv7dO+Ksf8AQ8x/y65/&#xA;yPP9MVRWm6brl9drb3FxrNlGwJM0kx4igrTt1xVOv8JXn/V+1H/kc3/NWKu/wlef9X7Uf+Rzf81Y&#xA;qnenWj2FnHayXEl20fKs0x5O1WLfET4VpiqKxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2Ku&#xA;xVJdd/46nlz/ALaUn/dO1LFXeTP+UP0H/tm2f/JiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV&#xA;2KuxV2KuxV2KuxV2KuxV2KuxVJdd/wCOp5c/7aUn/dO1LFXeTP8AlD9B/wC2bZ/8mI8VTrFXYq7F&#xA;XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FUl13/jqeXP+2lJ/wB07UsVd5M/&#xA;5Q/Qf+2bZ/8AJiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxVJ&#xA;dd/46nlz/tpSf907UsVd5M/5Q/Qf+2bZ/wDJiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2Ku&#xA;xV2KuxV2KuxV2KuxV2KuxVJdd/46nlz/ALaUn/dO1LFXeTP+UP0H/tm2f/JiPFU6xV2KuxV2KuxV&#xA;2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxVJdd/wCOp5c/7aUn/dO1LFXeTP8AlD9B&#xA;/wC2bZ/8mI8VTrFXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FUl13/j&#xA;qeXP+2lJ/wB07UsVd5M/5Q/Qf+2bZ/8AJiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2&#xA;KuxV2KuxV2KuxV2KuxVJdd/46nlz/tpSf907UsVd5M/5Q/Qf+2bZ/wDJiPFU6xV2KuxV2KuxV2Ku&#xA;xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxVJdd/46nlz/ALaUn/dO1LFXeTP+UP0H/tm2&#xA;f/JiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxVJdd/wCOp5c/&#xA;7aUn/dO1LFXeTP8AlD9B/wC2bZ/8mI8VTrFXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX&#xA;Yq7FXYq7FXYq7FUl13/jqeXP+2lJ/wB07UsVd5M/5Q/Qf+2bZ/8AJiPFU6xV2KuxV2KuxV2KuxV2&#xA;KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxVJdd/46nlz/tpSf907UsVd5M/5Q/Qf+2bZ/wDJ&#xA;iPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxVJdd/46nlz/ALaU&#xA;n/dO1LFXeTP+UP0H/tm2f/JiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2&#xA;KuxV2KuxVJdd/wCOp5c/7aUn/dO1LFXeTP8AlD9B/wC2bZ/8mI8VTrFXYq7FXYq7FXYq7FXYq7FX&#xA;Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FUl13/jqeXP+2lJ/wB07UsVd5M/5Q/Qf+2bZ/8AJiPF&#xA;U6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxVJdd/46nlz/tpSf907&#xA;UsVd5M/5Q/Qf+2bZ/wDJiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2Kux&#xA;V2KuxVJdd/46nlz/ALaUn/dO1LFXeTP+UP0H/tm2f/JiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2&#xA;KuxV2KuxV2KuxV2KuxV2KuxV2KuxVJdd/wCOp5c/7aUn/dO1LFXeTP8AlD9B/wC2bZ/8mI8VTrFX&#xA;Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FUl13/jqeXP+2lJ/wB07UsV&#xA;d5M/5Q/Qf+2bZ/8AJiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2K&#xA;uxVJdd/46nlz/tpSf907UsVd5M/5Q/Qf+2bZ/wDJiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2Kux&#xA;V2KuxV2KuxV2KuxV2KuxV2KuxVJdd/46nlz/ALaUn/dO1LFXeTP+UP0H/tm2f/JiPFU6xV2KuxV2&#xA;KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxVJdd/wCOp5c/7aUn/dO1LFXeTP8A&#xA;lD9B/wC2bZ/8mI8VTrFXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FUl&#xA;13/jqeXP+2lJ/wB07UsVd5M/5Q/Qf+2bZ/8AJiPFU6xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2K&#xA;uxV2KuxV2KuxV2KuxV2KuxVJdd/46nlz/tpSf907UsVd5M/5Q/Qf+2bZ/wDJiPFU6xV2KuxV2Kux&#xA;V2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxVJdd/46nlz/ALaUn/dO1LFUp8p+bPKt&#xA;t5V0W3uNa0+GaHT7WOSOS6hV0dYY1ZWVpAQQRuMVTb/Gfk//AKv2m/8ASZB/1UxV3+M/J/8A1ftN&#xA;/wCkyD/qpirv8Z+T/wDq/ab/ANJkH/VTFXf4z8n/APV+03/pMg/6qYq7/Gfk/wD6v2m/9JkH/VTF&#xA;Xf4z8n/9X7Tf+kyD/qpirv8AGfk//q/ab/0mQf8AVTFXf4z8n/8AV+03/pMg/wCqmKu/xn5P/wCr&#xA;9pv/AEmQf9VMVd/jPyf/ANX7Tf8ApMg/6qYq7/Gfk/8A6v2m/wDSZB/1UxV3+M/J/wD1ftN/6TIP&#xA;+qmKu/xn5P8A+r9pv/SZB/1UxV3+M/J//V+03/pMg/6qYq7/ABn5P/6v2m/9JkH/AFUxV3+M/J//&#xA;AFftN/6TIP8Aqpirv8Z+T/8Aq/ab/wBJkH/VTFXf4z8n/wDV+03/AKTIP+qmKu/xn5P/AOr9pv8A&#xA;0mQf9VMVd/jPyf8A9X7Tf+kyD/qpirv8Z+T/APq/ab/0mQf9VMVd/jPyf/1ftN/6TIP+qmKu/wAZ&#xA;+T/+r9pv/SZB/wBVMVSnWfNnlWXUdAeLWtPdINQkklZbqEhENhfx8nIk2HJ1FT3IxV//2Q==</xmpGImg:image>
+										</rdf:li>
+									</rdf:Alt>
+								</xmp:Thumbnails>
+							</rdf:Description>
+							<rdf:Description rdf:about=""
+								xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+								xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+								xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">
+								<xmpMM:InstanceID>xmp.iid:BE078B55C1C1E411A0E1E75FD0D3B5C1</xmpMM:InstanceID>
+								<xmpMM:DocumentID>xmp.did:BE078B55C1C1E411A0E1E75FD0D3B5C1</xmpMM:DocumentID>
+								<xmpMM:OriginalDocumentID>xmp.did:74DAD58E206C116896A9DFE5E3E68BC9</xmpMM:OriginalDocumentID>
+								<xmpMM:History>
+									<rdf:Seq>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>created</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74DAD58E206C116896A9DFE5E3E68BC9</stEvt:instanceID>
+											<stEvt:when>2009-10-13T13:52:01-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74DAD58F206C116896A9DFE5E3E68BC9</stEvt:instanceID>
+											<stEvt:when>2009-10-13T14:01:28-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74DAD590206C116896A9DFE5E3E68BC9</stEvt:instanceID>
+											<stEvt:when>2009-10-13T14:01:29-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74DAD591206C116896A9DFE5E3E68BC9</stEvt:instanceID>
+											<stEvt:when>2009-10-13T14:02:57-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:8CBD565E204C1168ABEAFB7211B7D318</stEvt:instanceID>
+											<stEvt:when>2009-10-13T15:42:32-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:BB266D00202B1168A11EC30EFFFDE612</stEvt:instanceID>
+											<stEvt:when>2009-10-19T13:15:56-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:BB266D01202B1168A11EC30EFFFDE612</stEvt:instanceID>
+											<stEvt:when>2009-10-19T14:14:04-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:08F8E6CF201211689098D0A44B0ED375</stEvt:instanceID>
+											<stEvt:when>2009-10-19T14:44:32-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FA820071168AF38CC247E253DC1</stEvt:instanceID>
+											<stEvt:when>2009-11-19T11:35:36-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FAA20071168AF38CC247E253DC1</stEvt:instanceID>
+											<stEvt:when>2009-11-19T11:37:52-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FAB20071168AF38CC247E253DC1</stEvt:instanceID>
+											<stEvt:when>2009-11-19T11:37:52-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FB72007116893E6FB288E46953A</stEvt:instanceID>
+											<stEvt:when>2009-11-19T11:46:48-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FB220071168B42DAA549BE9C329</stEvt:instanceID>
+											<stEvt:when>2009-11-28T10:23:29-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FB320071168B42DAA549BE9C329</stEvt:instanceID>
+											<stEvt:when>2009-11-28T10:23:29-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FB520071168B42DAA549BE9C329</stEvt:instanceID>
+											<stEvt:when>2009-11-28T10:31:13-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FB620071168B42DAA549BE9C329</stEvt:instanceID>
+											<stEvt:when>2009-11-28T10:43:06-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FA8200711688855D0EC4A280912</stEvt:instanceID>
+											<stEvt:when>2009-11-29T22:38:42-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FA9200711688855D0EC4A280912</stEvt:instanceID>
+											<stEvt:when>2009-11-29T22:38:42-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FAB200711688855D0EC4A280912</stEvt:instanceID>
+											<stEvt:when>2009-11-29T22:40:23-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FC020071168A13BB782F5214643</stEvt:instanceID>
+											<stEvt:when>2009-12-01T07:57:28-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:6CCC1CCA20231168B5D4CD12C3A1E136</stEvt:instanceID>
+											<stEvt:when>2009-12-04T13:05-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:9DA1B4E120281168B5D4CD12C3A1E136</stEvt:instanceID>
+											<stEvt:when>2009-12-04T13:28:40-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FBF200711689F77E31C3B007157</stEvt:instanceID>
+											<stEvt:when>2009-12-05T10:47:50-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:8583F9D6200D11688855A28438C27F79</stEvt:instanceID>
+											<stEvt:when>2009-12-14T09:10:14-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FA820071168B628D0962E13BE18</stEvt:instanceID>
+											<stEvt:when>2009-12-18T12:00:57-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FBC200711689F77875E0C534350</stEvt:instanceID>
+											<stEvt:when>2010-01-25T09:23:52-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:962D24EE202C1168BAC9868AD9ED6A5C</stEvt:instanceID>
+											<stEvt:when>2010-02-08T14:34:52-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:3805B1C32016116891B7C0BAF8450454</stEvt:instanceID>
+											<stEvt:when>2010-10-03T12:59:20-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FAD2007116880C3D9C29881A9AC</stEvt:instanceID>
+											<stEvt:when>2010-10-19T08:56:51-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FBF200711689A82F8BBC941127D</stEvt:instanceID>
+											<stEvt:when>2011-01-22T10:30:40-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FBC200711689DD0D38937B1D78D</stEvt:instanceID>
+											<stEvt:when>2011-01-24T08:50:33-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:74117FBD200711689DD0D38937B1D78D</stEvt:instanceID>
+											<stEvt:when>2011-01-24T08:50:33-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:41B4B3241C206811A11EE1516623B18E</stEvt:instanceID>
+											<stEvt:when>2011-01-25T13:33:56-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:42B4B3241C206811A11EE1516623B18E</stEvt:instanceID>
+											<stEvt:when>2011-01-25T13:33:56-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:853A32E82E206811A11EE1516623B18E</stEvt:instanceID>
+											<stEvt:when>2011-01-25T15:30:09-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:863A32E82E206811A11EE1516623B18E</stEvt:instanceID>
+											<stEvt:when>2011-01-25T15:30:09-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:EE7F1174072068118790AC0E4E4DD5A0</stEvt:instanceID>
+											<stEvt:when>2011-01-26T12:27:24-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:EF7F1174072068118790AC0E4E4DD5A0</stEvt:instanceID>
+											<stEvt:when>2011-01-26T12:27:24-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F07F1174072068118790AC0E4E4DD5A0</stEvt:instanceID>
+											<stEvt:when>2011-01-26T12:59:50-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F17F1174072068118790AC0E4E4DD5A0</stEvt:instanceID>
+											<stEvt:when>2011-01-26T13:41:44-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F37F1174072068118790AC0E4E4DD5A0</stEvt:instanceID>
+											<stEvt:when>2011-01-26T14:54:42-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F47F1174072068118790AC0E4E4DD5A0</stEvt:instanceID>
+											<stEvt:when>2011-01-26T14:54:42-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F57F1174072068118790AC0E4E4DD5A0</stEvt:instanceID>
+											<stEvt:when>2011-01-26T15:02-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F67F1174072068118790AC0E4E4DD5A0</stEvt:instanceID>
+											<stEvt:when>2011-01-26T15:02-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:8CD4B16744206811B7CFBE72825537E2</stEvt:instanceID>
+											<stEvt:when>2011-01-27T16:06:52-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:8DD4B16744206811B7CFBE72825537E2</stEvt:instanceID>
+											<stEvt:when>2011-01-27T16:06:52-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:8E22F25514206811B9769664ADBBA96B</stEvt:instanceID>
+											<stEvt:when>2011-02-04T09:36:58-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:8F22F25514206811B9769664ADBBA96B</stEvt:instanceID>
+											<stEvt:when>2011-02-04T09:36:58-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:9022F25514206811B9769664ADBBA96B</stEvt:instanceID>
+											<stEvt:when>2011-02-04T09:37:15-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:9122F25514206811B9769664ADBBA96B</stEvt:instanceID>
+											<stEvt:when>2011-02-04T09:37:15-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FE7F117407206811B7CFF53C65DC3A6D</stEvt:instanceID>
+											<stEvt:when>2011-02-11T09:39:15-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FF7F117407206811B7CFF53C65DC3A6D</stEvt:instanceID>
+											<stEvt:when>2011-02-11T09:39:15-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:0080117407206811B7CFF53C65DC3A6D</stEvt:instanceID>
+											<stEvt:when>2011-02-11T09:40:23-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:929D832313206811B7CFF53C65DC3A6D</stEvt:instanceID>
+											<stEvt:when>2011-02-11T09:40:23-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:939D832313206811B7CFF53C65DC3A6D</stEvt:instanceID>
+											<stEvt:when>2011-02-11T09:56:47-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:0280117407206811ABEACD904B4D2C76</stEvt:instanceID>
+											<stEvt:when>2011-02-26T16:04:58-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:0380117407206811ABEACD904B4D2C76</stEvt:instanceID>
+											<stEvt:when>2011-02-26T16:04:58-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FB7F117407206811BFBEAA183A9EB686</stEvt:instanceID>
+											<stEvt:when>2011-03-17T09:20:40-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FC7F117407206811BFBEAA183A9EB686</stEvt:instanceID>
+											<stEvt:when>2011-03-17T09:20:40-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:D18B8FFC4B206811B7CFCB61A1FAEB57</stEvt:instanceID>
+											<stEvt:when>2011-03-29T16:18:58-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:D28B8FFC4B206811B7CFCB61A1FAEB57</stEvt:instanceID>
+											<stEvt:when>2011-03-29T16:18:58-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F87F117407206811ABEAC42B9B524B44</stEvt:instanceID>
+											<stEvt:when>2011-08-01T09:21:50-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F97F117407206811ABEAC42B9B524B44</stEvt:instanceID>
+											<stEvt:when>2011-08-01T09:22:09-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FA7F117407206811ABEAC42B9B524B44</stEvt:instanceID>
+											<stEvt:when>2011-08-01T09:22:09-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FC7F117407206811ABEAC42B9B524B44</stEvt:instanceID>
+											<stEvt:when>2011-08-01T09:25:49-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FD7F117407206811ABEAC42B9B524B44</stEvt:instanceID>
+											<stEvt:when>2011-08-01T09:25:49-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F97F117407206811ABEAC1D409EDA6CE</stEvt:instanceID>
+											<stEvt:when>2011-08-08T08:04:50-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FA7F117407206811ABEAC1D409EDA6CE</stEvt:instanceID>
+											<stEvt:when>2011-08-08T08:04:50-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:23E28B48342068119F77DCD4C522A17A</stEvt:instanceID>
+											<stEvt:when>2011-08-16T13:28:04-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:028011740720681189FCB429AA3A7C8C</stEvt:instanceID>
+											<stEvt:when>2011-08-22T08:25:30-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:E1751D7520206811AA43C4FC4BFF1930</stEvt:instanceID>
+											<stEvt:when>2011-10-11T11:34:07-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F87F117407206811B976B64ACD6DFE13</stEvt:instanceID>
+											<stEvt:when>2011-10-12T09:00:49-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:B0D3C363102068119F77B44C1F675197</stEvt:instanceID>
+											<stEvt:when>2011-11-07T10:42:01-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:B1D3C363102068119F77B44C1F675197</stEvt:instanceID>
+											<stEvt:when>2011-11-07T10:42:01-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:4387C1741720681186AEC2D60B024AA5</stEvt:instanceID>
+											<stEvt:when>2011-11-21T09:14:07-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:4487C1741720681186AEC2D60B024AA5</stEvt:instanceID>
+											<stEvt:when>2011-11-21T09:14:07-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:0A80117407206811A11EDB5F33C50095</stEvt:instanceID>
+											<stEvt:when>2011-12-05T09:16:05-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:2AE8F87211206811A11EDB5F33C50095</stEvt:instanceID>
+											<stEvt:when>2011-12-05T09:16:29-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:2BE8F87211206811A11EDB5F33C50095</stEvt:instanceID>
+											<stEvt:when>2011-12-05T09:16:29-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:2CE8F87211206811A11EDB5F33C50095</stEvt:instanceID>
+											<stEvt:when>2011-12-05T09:16:38-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:2DE8F87211206811A11EDB5F33C50095</stEvt:instanceID>
+											<stEvt:when>2011-12-05T09:16:38-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:2EE8F87211206811A11EDB5F33C50095</stEvt:instanceID>
+											<stEvt:when>2011-12-05T09:17:09-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:2FE8F87211206811A11EDB5F33C50095</stEvt:instanceID>
+											<stEvt:when>2011-12-05T09:17:09-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:0280117407206811B976FF25E717F46A</stEvt:instanceID>
+											<stEvt:when>2012-02-03T10:37:11-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:0280117407206811B7CFBFC2A5B55B7B</stEvt:instanceID>
+											<stEvt:when>2012-02-06T08:14:47-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:CBCBE3B60D206811ABEADF81D7E1E364</stEvt:instanceID>
+											<stEvt:when>2012-03-26T11:05:12-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:04801174072068118855802F3C56D436</stEvt:instanceID>
+											<stEvt:when>2012-03-26T14:16:23-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:B180B00324206811A11E9DB940A66A81</stEvt:instanceID>
+											<stEvt:when>2012-10-23T11:14:47-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:4712ABA129206811A11E9DB940A66A81</stEvt:instanceID>
+											<stEvt:when>2012-10-23T11:42:43-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:4EB5317B1B206811A11E853EA9FB267F</stEvt:instanceID>
+											<stEvt:when>2012-12-18T11:44:13-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:3C81EEB725206811A11E853EA9FB267F</stEvt:instanceID>
+											<stEvt:when>2012-12-18T11:54:46-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:3D81EEB725206811A11E853EA9FB267F</stEvt:instanceID>
+											<stEvt:when>2012-12-18T11:54:46-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:3E81EEB725206811A11E853EA9FB267F</stEvt:instanceID>
+											<stEvt:when>2012-12-18T11:55:46-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:3F81EEB725206811A11E853EA9FB267F</stEvt:instanceID>
+											<stEvt:when>2012-12-18T11:55:46-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F97F117407206811B628FC437AE59255</stEvt:instanceID>
+											<stEvt:when>2013-02-04T09:51:42-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FA7F117407206811B628FC437AE59255</stEvt:instanceID>
+											<stEvt:when>2013-02-04T09:52:04-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FB7F117407206811B628FC437AE59255</stEvt:instanceID>
+											<stEvt:when>2013-02-04T09:52:04-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FC7F117407206811B628FC437AE59255</stEvt:instanceID>
+											<stEvt:when>2013-02-04T09:53:28-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FD7F117407206811B628FC437AE59255</stEvt:instanceID>
+											<stEvt:when>2013-02-04T09:53:28-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FE7F117407206811B628FC437AE59255</stEvt:instanceID>
+											<stEvt:when>2013-02-04T09:56:07-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FF7F117407206811B628FC437AE59255</stEvt:instanceID>
+											<stEvt:when>2013-02-04T09:56:07-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F87F117407206811BCC4D6E4E971C872</stEvt:instanceID>
+											<stEvt:when>2013-04-29T15:48:11-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:F97F117407206811BCC4D6E4E971C872</stEvt:instanceID>
+											<stEvt:when>2013-04-29T15:48:32-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FBB8DD5A11206811B6289C2F8A814FCB</stEvt:instanceID>
+											<stEvt:when>2013-04-30T10:03:58-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:63BFCECB09206811A11E9E816F29EE8C</stEvt:instanceID>
+											<stEvt:when>2013-06-11T09:53:35-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:64BFCECB09206811A11E9E816F29EE8C</stEvt:instanceID>
+											<stEvt:when>2013-06-11T09:53:35-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>converted</stEvt:action>
+											<stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:0780117407206811871F8EEE9B4A46A4</stEvt:instanceID>
+											<stEvt:when>2013-06-21T11:33:27-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FA621F540A206811871F8EEE9B4A46A4</stEvt:instanceID>
+											<stEvt:when>2013-06-21T11:38:07-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FB621F540A206811871F8EEE9B4A46A4</stEvt:instanceID>
+											<stEvt:when>2013-06-21T11:38:25-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:FC621F540A206811871F8EEE9B4A46A4</stEvt:instanceID>
+											<stEvt:when>2013-06-21T11:38:25-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:028011740720681192B0DA2BF593D668</stEvt:instanceID>
+											<stEvt:when>2013-06-26T15:26:51-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:038011740720681192B0DA2BF593D668</stEvt:instanceID>
+											<stEvt:when>2013-06-26T15:26:51-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:078011740720681188C69B3876714DC7</stEvt:instanceID>
+											<stEvt:when>2013-07-17T13:32:37-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:088011740720681188C69B3876714DC7</stEvt:instanceID>
+											<stEvt:when>2013-07-17T13:32:37-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:098011740720681188C69B3876714DC7</stEvt:instanceID>
+											<stEvt:when>2013-07-17T13:32:48-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:0A8011740720681188C69B3876714DC7</stEvt:instanceID>
+											<stEvt:when>2013-07-17T13:32:48-05:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:BD078B55C1C1E411A0E1E75FD0D3B5C1</stEvt:instanceID>
+											<stEvt:when>2015-03-03T10:22:37-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/metadata</stEvt:changed>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stEvt:action>saved</stEvt:action>
+											<stEvt:instanceID>xmp.iid:BE078B55C1C1E411A0E1E75FD0D3B5C1</stEvt:instanceID>
+											<stEvt:when>2015-03-03T10:22:37-06:00</stEvt:when>
+											<stEvt:softwareAgent>Adobe InCopy 6.0</stEvt:softwareAgent>
+											<stEvt:changed>/</stEvt:changed>
+										</rdf:li>
+									</rdf:Seq>
+								</xmpMM:History>
+								<xmpMM:DerivedFrom rdf:parseType="Resource">
+									<stRef:instanceID>xmp.iid:BD078B55C1C1E411A0E1E75FD0D3B5C1</stRef:instanceID>
+									<stRef:documentID>xmp.did:0A8011740720681188C69B3876714DC7</stRef:documentID>
+									<stRef:originalDocumentID>xmp.did:74DAD58E206C116896A9DFE5E3E68BC9</stRef:originalDocumentID>
+									<stRef:renditionClass>default</stRef:renditionClass>
+								</xmpMM:DerivedFrom>
+								<xmpMM:RenditionClass>default</xmpMM:RenditionClass>
+							</rdf:Description>
+							<rdf:Description rdf:about=""
+								xmlns:dc="http://purl.org/dc/elements/1.1/">
+								<dc:format>application/x-incopy</dc:format>
+								<dc:title>
+									<rdf:Alt>
+										<rdf:li xml:lang="x-default">com campus notes</rdf:li>
+									</rdf:Alt>
+								</dc:title>
+							</rdf:Description>
+							<rdf:Description rdf:about=""
+								xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+								xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+								xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#">
+								<xmpTPg:Colorants>
+									<rdf:Seq>
+										<rdf:li rdf:parseType="Resource">
+											<xmpG:swatchName>Black</xmpG:swatchName>
+											<xmpG:mode>CMYK</xmpG:mode>
+											<xmpG:type>Process</xmpG:type>
+											<xmpG:cyan>0</xmpG:cyan>
+											<xmpG:magenta>0</xmpG:magenta>
+											<xmpG:yellow>0</xmpG:yellow>
+											<xmpG:black>100</xmpG:black>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<xmpG:swatchName>Paper</xmpG:swatchName>
+											<xmpG:mode>CMYK</xmpG:mode>
+											<xmpG:type>Process</xmpG:type>
+											<xmpG:cyan>0</xmpG:cyan>
+											<xmpG:magenta>0</xmpG:magenta>
+											<xmpG:yellow>0</xmpG:yellow>
+											<xmpG:black>0</xmpG:black>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<xmpG:swatchName>Registration</xmpG:swatchName>
+											<xmpG:mode>CMYK</xmpG:mode>
+											<xmpG:type>Process</xmpG:type>
+											<xmpG:cyan>100</xmpG:cyan>
+											<xmpG:magenta>100</xmpG:magenta>
+											<xmpG:yellow>100</xmpG:yellow>
+											<xmpG:black>100</xmpG:black>
+										</rdf:li>
+									</rdf:Seq>
+								</xmpTPg:Colorants>
+								<xmpTPg:Fonts>
+									<rdf:Bag>
+										<rdf:li rdf:parseType="Resource">
+											<stFnt:fontName>FuturaStd-Bold</stFnt:fontName>
+											<stFnt:fontFamily>Futura Std</stFnt:fontFamily>
+											<stFnt:fontFace>Bold</stFnt:fontFace>
+											<stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+											<stFnt:versionString>FuturaStd-BoldOTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585</stFnt:versionString>
+											<stFnt:composite>false</stFnt:composite>
+											<stFnt:fontFileName>FuturaStd-Bold.otf</stFnt:fontFileName>
+										</rdf:li>
+										<rdf:li rdf:parseType="Resource">
+											<stFnt:fontName>NewCenturySchlbkLTStd-Roman</stFnt:fontName>
+											<stFnt:fontFamily>New Century Schoolbook LT Std</stFnt:fontFamily>
+											<stFnt:fontFace>Roman</stFnt:fontFace>
+											<stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+											<stFnt:versionString>NewCenturySchlbkLTStd-RomanOTF 1.029;PS 003.001;Core 1.0.33;makeotf.lib1.4.1585</stFnt:versionString>
+											<stFnt:composite>false</stFnt:composite>
+											<stFnt:fontFileName>NewCenturySchlbkLTStd-Roman.otf</stFnt:fontFileName>
+										</rdf:li>
+									</rdf:Bag>
+								</xmpTPg:Fonts>
+							</rdf:Description>
+						</rdf:RDF>
+					</x:xmpmeta>
+					<?xpacket end="r"?>]]></Contents>
+				</Properties>
+			</MetadataPacketPreference>
+			<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false"/>
+			<StandaloneDocumentPreference PageHeight="792" PageWidth="612" TextAreaWidth="118" TextAreaDepth="0" TextAreaDepthUnit="DepthColumnInches" FrameType="TextFrameType" StoryOrientation="Horizontal" CharacterAki="0" LineAki="6.909448818897637" HorizontalScale="100" VerticalScale="100" TextAreaCharPerLine="52" FacingPages="true"/>
