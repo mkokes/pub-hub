@@ -71,16 +71,26 @@ function pht_add_taxonomy_filter($query) {
 **INCOPY FILE CREATION
 *************************/
 //Line ending cleanup function
-function normalize($s) {
+function normalize($str) {
     // Normalize line endings
     // Convert all line-endings to UNIX format
-    $s = str_replace("\r\n", "\n", $s);
-    $s = str_replace("\r", "\n", $s);
+    $str = str_replace("\r\n", "\n", $str);
+    $str = str_replace("\r", "\n", $str);
     // Don't allow out-of-control blank lines
-    $s = preg_replace("/\n{2,}/", "\n\n", $s);
-    return $s;
+    $str = preg_replace("/\n{2,}/", "\n\n", $str);
+    return $str;
 }
-//Create an incopy file when a post is published or updated
+function nl2content($str) {
+    $arr=explode("\n",$str);
+    $out='';
+
+    for($i=0;$i<count($arr);$i++) {
+        if(strlen(trim($arr[$i]))>0)
+            $out.='<Content>'.trim($arr[$i])."</Content>\r\n<Br />\r\n";
+    }
+    return $out;
+}
+//Create an incopy body copy file when a post is published or updated
 function pht_write_xml( $post) {
 	global $post;
 	if( ! ( wp_is_post_revision( $post) && wp_is_post_autosave( $post ) ) ) {
@@ -88,32 +98,29 @@ function pht_write_xml( $post) {
 		//Set Upload Directory
 		$upload_dir = WP_CONTENT_DIR."/incopy-export/";
 		//Set File Names
-		$icfile = $upload_dir . $post->post_name."-ARTICLE.xml";
+		$icfile = $upload_dir . $post->post_name."-ARTICLE.icml";
 		//import incopy snippets
 		$plugindir = plugins_url( '' , __FILE__ );
-		$ictop = file_get_contents($plugindir.'/includes/article-top.txt');
-		$icbottom = file_get_contents($plugindir.'/includes/article-bottom.txt');
+		$ictop = file_get_contents($plugindir.'/includes/article-top.txt')."\r\n";
+		$icbottom = file_get_contents($plugindir.'/includes/article-bottom.txt')."\r\n";
+		$icprebody = "<ParagraphStyleRange AppliedParagraphStyle='ParagraphStyle/PUE Paragraph Styles%3aBody Copy'>\r\n<CharacterStyleRange AppliedCharacterStyle='CharacterStyle/".'$ID'."/[No character style]'>\r\n";
+		$icpostcontent = "</CharacterStyleRange>\r\n</ParagraphStyleRange>\r\n";
 		//Add the title and content to variable
-		$content = $post->post_title."\r\n\r\n".$post->post_content;
+		$content = $post->post_content;
 		//Process story content strip out html and replace with icml friendly tags
-		$search = array('<p>','</p>');
-		$replace = array('<content>','</content>');
-		$excludetags = '<p><br><br /><h1><h2>';
 		$content = strip_shortcodes($content);
-		$content = strip_tags($content,$excludetags);
-		$content = nl2br($content);
-		$content = str_replace($search,$replace,$content);
-		$content = "<content>" . implode( "</content>\n\n<content>", preg_split( '/\n(?:\s*\n)+/', $content ) ) . "</content>";
-		//process content
+		$content = strip_tags($content);
+		$content = preg_replace("/(^[\r\n]*|[\r\n]+)[\s\t]*[\r\n]+/", "\n", $content);
+		$content = nl2content($content);
 		
 		//wrap content with indesign template
-		$content = $ictop."\r\n".$content."\r\n".$icbottom;
+		$content = $ictop.$icprebody.$content.$icpostcontent.$icbottom;
 		$content = normalize($content);
 		//process xml here
 		file_put_contents($icfile, $content,LOCK_EX);
 	}
 }
-add_action('admin_head', 'pht_write_xml',10,2);
+//add_action('admin_head', 'pht_write_xml',10,2);
 add_action('save_post', 'pht_write_xml',10,2);
 /************************
 **IMAGE FILE CREATION
